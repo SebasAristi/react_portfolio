@@ -5,9 +5,34 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: lightgray;
+}
+
+li{
+  list-style: none;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.nav{
+  font-family: 'Crimson Text', serif;
+}
+a.nav-link{
+  color: black
+}
+
+#intro {
+  /* changes the landing page image */
+    background: url("https://live.staticflickr.com/8427/29185510223_406cb7a8a9_b.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.heading-name{
+  color:azure!important;
+  font-family: 'Playfair Display', serif;
+}
+
