@@ -27,7 +27,7 @@ function Home() {
                                     <Col>
 
                                         <Row className="justify-content-center align-center">
-                                            <Button className="m-5" href="/about">Learn More</Button>
+                                            <Button className="m-5" href="/react_porfolio/about">Learn More</Button>
                                         </Row>
                                     </Col>
 

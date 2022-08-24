@@ -16,10 +16,10 @@ function App() {
     <BrowserRouter> 
     <Navigation/>
       <Routes>
-        <Route path="/" element={<Home/>} />
-        <Route path="/about" element={<About/>} />
-        <Route path="/projects" element={<Projects/>} />
-        <Route path="/contact" element={<Contact/>} />
+        <Route path="/react_portfolio/" element={<Home/>} />
+        <Route path="/react_portfolio/about" element={<About/>} />
+        <Route path="/react_portfolio/projects" element={<Projects/>} />
+        <Route path="/react_portfolio/contact" element={<Contact/>} />
       </Routes>
     </BrowserRouter>
   );
