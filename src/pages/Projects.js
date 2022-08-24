@@ -21,7 +21,7 @@ function Projects() {
 
                         <h4 className="my-4 font-weight-bold">Movie-ish</h4>
                         <p className="grey-text">Movie finder application using HTML, CSS and javascript.</p>
-                        <a href="https://pillifino.github.io/movie-ish/">Movie-ish</a>
+                        <a href="https://pillifino.github.io/movie-ish/" target="_blank">Movie-ish</a>
                     </div>
 
                     <div className="col-lg-4 col-md-6 mb-4">
@@ -33,7 +33,7 @@ function Projects() {
 
                         <h4 className="my-4 font-weight-bold">Grumble</h4>
                         <p className="grey-text">Find a work partner. Find a match. Built with REACTJS, Node, Mongo, Apollo and graphql.</p>
-                        <a href="https://grumble-really-cool-people.herokuapp.com/">Grumble</a>
+                        <a href="https://grumble-really-cool-people.herokuapp.com/" target="_blank">Grumble</a>
                     </div>
 
                     <div className="col-lg-4 col-md-6 mb-4">
@@ -45,7 +45,7 @@ function Projects() {
 
                         <h4 className="my-4 font-weight-bold">Google book search</h4>
                         <p className="grey-text">Google book search. Built with REACTJS, Node, Mongo, Apollo and graphql.</p>
-                        <a href="https://sebs-google-book-search.herokuapp.com/">Book Search</a>
+                        <a href="https://sebs-google-book-search.herokuapp.com/" target="_blank">Book Search</a>
                     </div>
 
 
@@ -63,7 +63,7 @@ function Projects() {
 
                         <h4 className="my-4 font-weight-bold">Text Editor</h4>
                         <p className="grey-text">TextEditor PWA. Take your notes offline. Built with webpack</p>
-                        <a href="https://sebstexteditor.herokuapp.com/">Text Editor</a>
+                        <a href="https://sebstexteditor.herokuapp.com/" target="_blank">Text Editor</a>
                     </div>
 
                     <div className="col-lg-4 col-md-6 mb-4">
@@ -75,7 +75,7 @@ function Projects() {
 
                         <h4 className="my-4 font-weight-bold">Note Taker</h4>
                         <p className="grey-text">Note Taker app built with Express.</p>
-                        <a href="https://guarded-coast-47180.herokuapp.com/">Note Taker</a>
+                        <a href="https://guarded-coast-47180.herokuapp.com/" target="_blank">Note Taker</a>
                     </div>
                     {/* <div className="col-lg-4 col-md-6 mb-4">
 
