@@ -13,14 +13,13 @@ function About() {
 
                     <div className="row d-flex justify-content-center mb-4">
                         <div className="col-md-4">
-                            <img src="https://mdbootstrap.com/img/Photos/Others/images/48.jpg" className="img-fluid" alt="" />
+                            <img src="https://github.com/SebasAristi/react_portfolio/blob/main/src/images/d268679e-ea7d-43b0-a33a-44de84a0fa65.JPG?raw=true" className="img-fluid" alt="" />
                         </div>
 
                         <div className="col-md-8">
 
-
                             <p className="grey-text">Who Am I?</p>
-                            <p></p>
+                            <p>Hi, I'm Sebastian Arisrtizabal, I'm a full stack developer, most of my experience comes from javascript and react, I like to learn new things to implement them when required,</p>
 
                         </div>
 
@@ -28,29 +27,23 @@ function About() {
                     </div>
 
 
-                    <div className="col-md-4 mt-5">
+                    <div className="col-md- mt-5">
 
 
-                        <div className="col-md-4 mb-5">
+                        <div className="col-md- mb-5">
                             <h4 className="my-4 font-weight-bold">Experience</h4>
                             <p className="grey-text"></p>
                         </div>
 
-                        <div className="col-md-4 mb-5">
-                            <h4 className="my-4 font-weight-bold">Happiness</h4>
-                            <p className="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit
-                                maiores nam,
-                                aperiam minima
-                                assumenda deleniti hic.</p>
+                        <div className="col-md- mb-5">
+                            <h4 className="my-4 font-weight-bold">Hobbies</h4>
+                            <p className="grey-text"></p>
                         </div>
 
 
-                        <div className="col-md-4 mb-5">
+                        <div className="col-md- mb-5">
                             <h4 className="my-4 font-weight-bold">Adventure</h4>
-                            <p className="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit
-                                maiores nam,
-                                aperiam minima
-                                assumenda deleniti hic.</p>
+                            <p className="grey-text"></p>
                         </div>
 
 
@@ -65,5 +58,3 @@ function About() {
 
 
 export default About;
-
-// https://live.staticflickr.com/8427/29185510223_406cb7a8a9_b.jpg
